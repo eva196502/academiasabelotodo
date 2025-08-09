@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Mi Página Web</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f5f5fc;
+      color: #222;
+    }
+    h1 {
+      color: #3261a8;
+    }
+    .container {
+      background: #fff;
+      padding: 2em;
+      border-radius: 12px;
+      max-width: 600px;
+      margin: auto;
+      box-shadow: 0 2px 8px #0002;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>¡Bienvenido a mi página web en GitHub Pages!</h1>
+    <p>Este es el sitio de <b>Academiasabelotodo</b>.</p>
+    <p>Puedes editar este archivo para cambiar el contenido de tu página.</p>
+  </div>
+</body>
+</html>
